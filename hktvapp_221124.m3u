@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="金马影院" tvg-logo="https://i.imgur.com/XQnIwzp.png",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Celestial Classic 天映经典 (Celestial Classic Movies) (Indonesian Subtitle) (576p)
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TVB Finance and Sport Channel (720p)
+https://tvp22.sky4k.top/index2.php
